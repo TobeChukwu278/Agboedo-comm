@@ -1,12 +1,44 @@
-# React + Vite
+# Agboedo-comm
+Agboedo-comm is a web-based project designed to advertise a local business. Built using React and tailwind this project focuses on consolidating my knowledge of React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Feature 1: Search bar: where search bar where you can search out products ( but not active yet)
+Feature 2: Product section: displays set of products where you can make selections from
 
-Currently, two official plugins are available:
+## Installation
+To run this project locally, follow these steps:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone the repository:
 
-## Expanding the ESLint configuration
+  git clone https://github.com/TobeChukwu278/Agboedo-comm.git
+2. Navigate to the project directory:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  cd Agboedo-comm
+3. Open index.html in your browser to view the project.
+
+
+## Contributing
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Create a new branch:
+   
+git checkout -b feature-name
+
+
+3. Commit your changes:
+
+git commit -m "Added new feature"
+
+
+4. Push to the branch:
+
+git push origin feature-name
+
+
+5. Open a pull request.
+
+   
+## License
+This project is licensed under the MIT License.
+
